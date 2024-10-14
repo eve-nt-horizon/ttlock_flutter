@@ -1,3 +1,8 @@
+With the latest versions of ttlock_flutter failing static analysis, I decided to go ahead and create a fork.
+This branch fixes those issues,also for ease of use this branch contains a thin wrapper over the existing plugin
+that aims to make all functions return awaitable values(Still working on it). Yay! no more callbacks.
+
+
 ## Developers Email list
 ttlock-developers-email-list@googlegroups.com
 
